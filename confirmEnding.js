@@ -12,5 +12,3 @@ function confirmEnding(str, target) {
     }
    }
    
-   confirmEnding("Open sesame", "same");
-   
