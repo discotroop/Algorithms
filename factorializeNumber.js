@@ -8,6 +8,4 @@ function factorialize(num) {
     }
     return result;
   }
-  
-  factorialize(5);
-  
+    
